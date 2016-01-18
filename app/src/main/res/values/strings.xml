@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Exam</string>
+    <string name="title_activity_main2">Main2Activity</string>
+    <string name="add">Add</string>
+    <string name="fname">First name</string>
+    <string name="lanme">Last name</string>
+    <string name="gender">Gender</string>
+    <string name="username">Username</string>
+    <string name="wait">Please wait...</string>
+</resources>
